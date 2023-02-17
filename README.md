@@ -60,6 +60,14 @@ Our results are below:
 
 ![eurasia_tsne_p30.png](imgs/eurasia_tsne_p30.png)
 
+- UMAP
+
+![eurasia_umap_nn30_md0.5.png](imgs/eurasia_umap_nn30_md0.5.png)
+
+- UMAP on 15 PCs
+
+![eurasia_15pcs-umap_nn15_md0.5.png](imgs/eurasia_15pcs-umap_nn15_md0.5.png)
+
 - Vanilla Adversarial Autoencoders
 
 ![eurasia_vanilla_lr0.0005_bs128.png](imgs/eurasia_vanilla_lr0.0005_bs128.png)
