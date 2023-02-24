@@ -18,27 +18,27 @@ Our results are below:
 
 - PCA
 
-![1kgenome_2pcs.png](imgs/1kgenome_2pcs.png)
+![new_1kgenome_2pcs.png](imgs/new_1kgenome_2pcs.png)
 
 - t-SNE
 
-![1kgenome_tsne_p30.png](imgs/1kgenome_tsne_p30.png)
+![new_1kgenome_tsne_p30.png](imgs/new_1kgenome_tsne_p30.png)
 
 - UMAP
 
-![1kgenome_umap_nn10_md0.5.png](imgs/1kgenome_umap_nn10_md0.5.png)
+![new_1kgenome_umap_nn10_md0.5.png](imgs/new_1kgenome_umap_nn10_md0.5.png)
 
 - UMAP on 15 PCs
 
-![1kgenome_15pcs-umap_nn10_md0.5.png](imgs/1kgenome_15pcs-umap_nn10_md0.5.png)
+![new_1kgenome_15pcs-umap_nn10_md0.5.png](imgs/1kgenome_15pcs-umap_nn10_md0.5.png)
 
 - Vanilla Adversarial Autoencoders
 
-![1k_vanilla_lr0.0005_bs128.png](imgs/1k_vanilla_lr0.0005_bs128.png)
+![new_1kgenome_vanilla_lr0.001_bs128_std2.png](imgs/new_1kgenome_vanilla_lr0.001_bs128_std2.png)
 
 - Adversarial Autoencoders with Cluster Heads
 
-![1k_dim_20_lr0.0005_bs32_std0.5.png](imgs/1k_dim_20_lr0.0005_bs32_std0.5.png)
+![new_1kgenome_dim_20_lr0.0001_bs32_std1.png](imgs/new_1kgenome_dim_20_lr0.0001_bs32_std1.png)
 
 We haven't managed to exactly reproduce the results from Diaz-Papkovich et al; we're working on it. 
 
@@ -62,7 +62,7 @@ Our results are below:
 
 - UMAP
 
-![eurasia_umap_nn30_md0.5.png](imgs/eurasia_umap_nn30_md0.5.png)
+![eurasia_umap_nn15_md0.5.png](imgs/eurasia_umap_nn15_md0.5.png)
 
 - UMAP on 15 PCs
 
@@ -70,11 +70,11 @@ Our results are below:
 
 - Vanilla Adversarial Autoencoders
 
-![eurasia_vanilla_lr0.0005_bs128.png](imgs/eurasia_vanilla_lr0.0005_bs128.png)
+![eurasia_vanilla_lr0.001_bs128_std2.png](imgs/eurasia_vanilla_lr0.001_bs128_std2.png)
 
 - Adversarial Autoencoders with Cluster Heads
 
-![eurasia_dim_20_lr0.0001_bs32_std0.5.png](imgs/eurasia_dim_20_lr0.0001_bs32_std0.5.png)
+![eurasia_dim_10_lr0.0005_bs32_std2.png](imgs/eurasia_dim_10_lr0.0005_bs32_std2.png)
 
 
 
