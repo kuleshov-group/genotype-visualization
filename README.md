@@ -26,11 +26,11 @@ Our results are below:
 
 - UMAP
 
-![new_1kgenome_umap_nn10_md0.5.png](imgs/new_1kgenome_umap_nn10_md0.5.png)
+![new_1kgenome_umap_nn15_md0.5.png](imgs/new_1kgenome_umap_nn15_md0.5.png)
 
 - UMAP on 15 PCs
 
-![new_1kgenome_15pcs-umap_nn10_md0.5.png](imgs/1kgenome_15pcs-umap_nn10_md0.5.png)
+![new_1kgenome_15pcs-umap_nn15_md0.5.png](imgs/new_1kgenome_15pcs-umap_nn15_md0.5.png)
 
 - Vanilla Adversarial Autoencoders
 
