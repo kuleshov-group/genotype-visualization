@@ -2,7 +2,7 @@
 
 This repository contains the visualizations of 1000 Genomes dataset ([1000 Genomes Project Consortium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3498066/)) and the modern Eurasian population dataset ([Lamnidis et al.](https://www.nature.com/articles/s41467-018-07483-5)). The dimensional reduction techniques used include PCA, t-SNE, UMAP, and Adversarial Autoencoders ([Makhzani et al.](https://arxiv.org/pdf/1511.05644.pdf))
 
-All visualizations can be founded in the form of interactive htmls in the `htmls` folder. The interactive htmls let you pan, zoom, hover on data points, and also hide data of particular labels by clicking on the legend. 
+All visualizations for each dataset can be founded in `1kgenome.html` and `modern_eurasia.html`. The interactive htmls let you pan, zoom, hover on data points, and also hide data of particular labels by clicking on the legend. 
 
 We also hand pick some visualizations and display them as static images below.
 
